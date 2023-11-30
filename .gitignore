@@ -1,0 +1,7 @@
+# 내계정정보드러나니까
+.vscode 
+# config 정보 드러나니까
+**/data/
+**/adm/
+**/skin/poll
+**/theme/basic
